@@ -1,2 +1,2 @@
 # combo-master
-Version 0.0.2 is out see the releases tab
+Version 0.0.3 is out see the releases tab for details
